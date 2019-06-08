@@ -1,0 +1,14 @@
+{
+  "name": "neural",
+  "version": "1.0.0",
+  "description": "neural basics",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "2b1q",
+  "license": "ISC",
+  "dependencies": {
+    "synaptic": "^1.1.4"
+  }
+}
